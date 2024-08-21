@@ -30,8 +30,7 @@ I’m currently a student in the Artificial Intelligence faculty, diving into th
 ---
 
 #### 🌟 **Projects I'm Proud Of:**
-- **[Your Project Name](#)**: A brief description of what this project is about and the technologies used.
-- **[Your Project Name](#)**: Another project with a short summary.
+- **[Mining Process Flotation Plant Analysis and Model Deployment](#)**: This project involves a comprehensive analysis of a Mining Process Flotation Plant dataset, including Exploratory Data Analysis (EDA), model training using Random Forest.
 
 ---
 
