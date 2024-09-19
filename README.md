@@ -30,8 +30,9 @@ I’m currently a student in the Artificial Intelligence faculty, diving into th
 ---
 
 #### 🌟 **Projects I'm Proud Of:**
-- **[Mining Process Flotation Plant Analysis and Model Deployment](#)**: This project involves a comprehensive analysis of a Mining Process Flotation Plant dataset, including Exploratory Data Analysis (EDA), model training using Random Forest.
+- **[Mining Process Flotation Plant Analysis and Model Deployment](https://github.com/Abuhamida/Machine-learning-/tree/main/Quality%20Prediction%20in%20a%20Mining%20Process)**: This project involves a comprehensive analysis of a Mining Process Flotation Plant dataset, including Exploratory Data Analysis (EDA), model training using Random Forest.
 
+- **[E-commerce Customer Segmentation Analysis](https://github.com/Abuhamida/E-commerce-Customer-Segmentation.git)**: This project segments e-commerce customers into distinct groups based on their shopping behavior and personal details, using data analysis and clustering techniques
 ---
 
 #### 📫 **Get in Touch:**
